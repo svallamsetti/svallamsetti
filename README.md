@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinesh Vallamsetti@svallamsetti
-- 👀 I’m interested in solving problems leveraging technologies
+- 👀 I’m interested in solving problems by leveraging technologies
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects which help advances human life and makes evryones life better by reducing tedious manual tasks.
+- 💞️ I’m looking to collaborate on projects which help advances human life and makes everyones life better by reducing tedious manual tasks.
 
 
 <!---
